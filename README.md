@@ -33,36 +33,5 @@ react-retos/
 🔥 **[To-Do List Avanzada](./dificil/reto-11-todo-list-avanzada)**  
 🔥 **[Galería de Imágenes con Lazy Loading](./dificil/reto-12-galeria-lazy-loading)**  
 
-## 🛠 Instalación y Uso  
-Para ejecutar un reto, sigue estos pasos:  
-```sh
-cd facil/reto-01-contador
-npm install
-npm run dev
-```
 
-## ⭐ Contribuciones  
-Cualquier sugerencia o mejora es bienvenida. ¡Sientete libre de hacer un fork o abrir un issue!  
 
----
-
-### **2️⃣ Agrega un archivo `CONTRIBUTING.md`**  
-Si planeas que otros colaboren, este archivo explica cómo pueden hacerlo.  
-
-### **3️⃣ Usa un logo o banner personalizado** 🎨  
-Puedes subir una imagen y agregarla al README con:  
-```md
-![React Retos](https://link-a-tu-imagen.com/imagen.png)
-```
-
-### **4️⃣ Agrega etiquetas y descripciones en GitHub**  
-- En la página del repositorio, agrega **tags** como `React`, `Desafíos`, `Practica`, etc.  
-- Completa la **descripción** con algo breve y claro.  
-
-### **5️⃣ Crea Issues y un Proyecto en GitHub**  
-Puedes usar la pestaña **Projects** en GitHub para organizar retos pendientes, en progreso y completados.  
-
----
-
-🔥 **Con esto, tu repositorio tendrá una presentación atractiva y profesional.**  
-Si necesitas ayuda con los detalles, dime y lo ajustamos. ¿Qué opinas? 😃
