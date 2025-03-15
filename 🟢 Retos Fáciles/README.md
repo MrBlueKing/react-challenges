@@ -17,6 +17,4 @@ Los detalles de los retos están disponibles en sus respectivos archivos README 
 Aquí te dejo algunos recursos que pueden serte útiles al resolver los retos:
 
 Documentación oficial de React
-MDN Web Docs - JavaScript
-freeCodeCamp - React
-React Hooks - Documentación oficial
+
