@@ -3,6 +3,8 @@
 📌 Descripción de los retos fáciles
 Esta sección está diseñada para ayudarte a familiarizarte con los conceptos básicos de React. Aquí encontrarás ejercicios enfocados en el manejo del estado, los eventos y el paso de propiedades entre componentes. Estos retos te ayudarán a comprender cómo React gestiona la interacción entre componentes de manera sencilla, sentando las bases para aprender más adelante sobre otros conceptos avanzados.
 
+![Descripción de la imagen](/Assets/reto-facil-01-contador-basico.png)
+
 🔹 Instrucciones para Descargar y Ejecutar los Retos
 Para descargar y trabajar con los retos, sigue los siguientes pasos:
 
@@ -20,4 +22,4 @@ Aquí te dejo algunos recursos que pueden serte útiles al resolver los retos: h
 
 Documentación oficial de React
 
-![Descripción de la imagen](/Assets/reto-facil-01-contador-basico.png)
+
