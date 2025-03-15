@@ -20,4 +20,4 @@ Aquí te dejo algunos recursos que pueden serte útiles al resolver los retos: h
 
 Documentación oficial de React
 
-![Descripción de la imagen](assets/images/contador.png)
+![Descripción de la imagen](assets/reto-facil-01-contador-basico.png)
