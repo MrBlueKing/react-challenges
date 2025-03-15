@@ -8,7 +8,7 @@ Esta sección está diseñada para ayudarte a familiarizarte con los conceptos b
 🔹 Instrucciones para Descargar y Ejecutar los Retos
 Para descargar y trabajar con los retos, sigue los siguientes pasos:
 
-1.- Clona este repositorio en tu máquina local utilizando el siguiente comando: git clone [https://github.com](https://github.com/MrBlueKing/react-challenges.git)
+1.- Clona este repositorio en tu máquina local utilizando el siguiente comando: git clone https://github.com/MrBlueKing/react-challenges.git
 
 2.- Navega hasta la carpeta de retos fáciles: cd react-retos/facil
 
