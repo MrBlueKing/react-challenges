@@ -1,4 +1,4 @@
-# 🚀 React Challenges  
+# 🚀 React Challenges  (test)
 📌 Desafíos prácticos para mejorar mis habilidades en React. Este repositorio está organizado para que puedas practicar desde los conceptos básicos hasta los proyectos más avanzados de React. Cada reto está agrupado según su nivel de dificultad: fácil, intermedio o difícil.
 
 ## 📂 Estructura del Repositorio  
