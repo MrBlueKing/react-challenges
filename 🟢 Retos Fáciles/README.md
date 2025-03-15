@@ -7,7 +7,9 @@ Esta sección está diseñada para ayudarte a familiarizarte con los conceptos b
 Para descargar y trabajar con los retos, sigue los siguientes pasos:
 
 1.- Clona este repositorio en tu máquina local utilizando el siguiente comando: git clone https://github.com
+
 2.- Navega hasta la carpeta de retos fáciles: cd react-retos/facil
+
 3.- Instala las dependencias necesarias: Entra en cada carpeta de reto y ejecuta: npm install
 
 🔹 Retos Disponibles
