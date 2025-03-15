@@ -14,7 +14,7 @@ Para descargar y trabajar con los retos, sigue los siguientes pasos:
 Los detalles de los retos están disponibles en sus respectivos archivos README dentro de cada carpeta de reto. Encuentra la lista completa de retos aquí.
 
 🔹 Páginas Externas que Pueden Ayudar
-Aquí te dejo algunos recursos que pueden serte útiles al resolver los retos:
+Aquí te dejo algunos recursos que pueden serte útiles al resolver los retos: https://docs.google.com/document/d/1QPtH_dZMEune_h_wEDIb1OML-0PODSCAvLt7gRVnCkk/edit?usp=sharing
 
 Documentación oficial de React
 
