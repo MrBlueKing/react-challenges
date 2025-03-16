@@ -14,6 +14,7 @@ Utilizar el hook useState para gestionar el estado del input.
 
 
 🛠️ Tecnologías utilizadas
+
 React
 
 useState
