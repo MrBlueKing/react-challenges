@@ -5,6 +5,8 @@ En este reto, crearás un formulario con un campo de texto (input) cuyo valor se
 
 En React, un formulario controlado significa que el valor de los elementos del formulario (como el input) se gestiona a través del estado del componente. Esto permite un control total sobre los datos ingresados y facilita la validación o manipulación de la información.
 
+![Descripción de la imagen](/Assets/reto-facil-02-input-controlado.png)
+
 🎯 Objetivo del reto
 Crear un campo de entrada (input) cuyo valor esté controlado por el estado de React.
 
