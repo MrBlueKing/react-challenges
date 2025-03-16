@@ -15,15 +15,16 @@ Utilizar el hook useState para gestionar el estado del input.
 
 🛠️ Tecnologías utilizadas
 
-React
+-React
 
-useState
+-useState
 
-onInput: El eveto onInput ocurre cuando se cambia el valor de un elemento <input>, <textarea> o <select>.
+-onInput: El eveto onInput ocurre cuando se cambia el valor de un elemento <input>, <textarea> o <select>.
 
-event
+-event
 
 📖 Instrucciones
+
 Crear un estado en el componente principal utilizando useState para almacenar el valor del input.
 Vincular el valor del input al estado, de modo que cada vez que el usuario escriba, el estado se actualice automáticamente.
 Mostrar el valor en tiempo real en otro elemento de la interfaz (por ejemplo, un <p> o un <div>).
