@@ -1,7 +1,7 @@
 import { useState } from 'react'; // useState es un hook de react
-import './App.css';
+import Header from '../Components/Common/Header';
 
-function App() {
+function RetoInputControlado() {
   // Estado para almacenar el valor del input
   const [text, setText] = useState("");
 
@@ -12,9 +12,7 @@ function App() {
 
   return (
     <div className="flex flex-col min-h-screen">
-      <header className="bg-blue-500 text-white text-xl p-4 flex justify-center items-center">
-        <h1 className="text-4xl font-bold">Input Controlado</h1>
-      </header>
+      <Header text={"Input Controlado"} />
 
       <main className="flex-1 p-4">
         <div className="flex space-x-4">
@@ -46,4 +44,4 @@ function App() {
   );
 }
 
-export default App;
+export default RetoInputControlado;
